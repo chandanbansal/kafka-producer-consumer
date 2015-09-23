@@ -1,0 +1,10 @@
+{
+        "type": "record",
+        "namespace": "com.chandan.kafka.avro.page_visit",
+        "name": "page_visit",
+        "fields": [
+                {"name": "time", "type": "long"},
+                {"name": "site", "type": "string"},
+                {"name": "ip", "type": "string"}
+        ]
+}

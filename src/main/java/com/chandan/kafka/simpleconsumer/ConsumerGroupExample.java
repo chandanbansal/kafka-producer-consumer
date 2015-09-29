@@ -1,5 +1,6 @@
 package com.chandan.kafka.consumer;
 
+import com.chandan.kafka.simpleconsumer.ConsumerTest;
 import kafka.consumer.ConsumerConfig;
 import kafka.consumer.KafkaStream;
 import kafka.javaapi.consumer.ConsumerConnector;

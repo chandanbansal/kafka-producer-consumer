@@ -1,4 +1,4 @@
-package com.chandan.kafka.consumer;
+package com.chandan.kafka.simpleconsumer;
 
 import kafka.consumer.ConsumerIterator;
 import kafka.consumer.KafkaStream;
